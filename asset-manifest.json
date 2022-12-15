@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5121e5c2.css",
+    "main.js": "/static/js/main.60f92d76.js",
+    "static/media/signuppage.avif": "/static/media/signuppage.9ca1cb25e845708b7202.avif",
+    "index.html": "/index.html",
+    "main.5121e5c2.css.map": "/static/css/main.5121e5c2.css.map",
+    "main.60f92d76.js.map": "/static/js/main.60f92d76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5121e5c2.css",
+    "static/js/main.60f92d76.js"
+  ]
+}
